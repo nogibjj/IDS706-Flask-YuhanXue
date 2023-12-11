@@ -40,4 +40,4 @@ The web app is deployed on Azure. I created a web app on Azure and chose "Contai
 
 
 ### Demo Video Link
-Project walkthrough: [link](link)
+Project walkthrough: [https://youtu.be/7IbmLja_ciE](https://youtu.be/7IbmLja_ciE)
